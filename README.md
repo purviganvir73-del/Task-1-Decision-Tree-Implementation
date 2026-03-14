@@ -6,7 +6,7 @@
 This project involves building and visualizing a **Decision Tree** model using the `scikit-learn` library. The goal is to classify outcomes based on the Iris Dataset and provide a clear visualization of the model's decision-making logic.
 
 ### Task Details
-* **Organization**: CODTECH IT SOLUTIONS [cite: 1, 15]
+* **Organization**: CODTECH IT SOLUTIONS 
 * **Intern Name**: Purvi Ganvir
 * **Intern ID**: CTIS6235
 * **Domain**: Machine Learning.
